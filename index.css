@@ -149,28 +149,16 @@
 
   .Banner_text_box_doctor {
     position: absolute;
-    top: 50px;
+    top: 100px;
   }
 
-  .doctor_banner_big_text {
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    color: black;
-  }
-
-  .doctor_banner_small_text {
-    font-size: 10px;
-    font-family: Arial, Helvetica, sans-serif;
-    /* font-weight: bold; */
-    color: black;
-  }
+ 
 
   .banner_doctor_search_box
 {
   position: absolute !important;
   left: 30px !important;
-  top: 200px !important;
+  top: 230px !important;
   width: 380px !important;
   height: 60px;
   /* border: 1px soild black !important; */
@@ -188,6 +176,57 @@
   text-align: center;
   border: none;
   border-radius: 10px;
+}
+.below_banner_box
+{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100vw !important;
+  height: fit-content!important;
+  padding: 10px !important;
+  /* height: 300px; */
+  background-color: #f0f0f0;
+}
+.about_life_care_box
+{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100vw !important;
+  height: 100% !important;
+}
+.doctor_img_life_care
+{
+width: 380px !important;
+height: 330px !important;
+margin-top: 90px;
+}
+.doctor_banner_big_text {
+  font-size: 30px !important;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: black;
+}
+
+.doctor_banner_small_text {
+  font-size: 15px !important;
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-weight: bold; */
+  color: black;
+}
+.doctor_banner_big_text2 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+.doctor_banner_small_text2 {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 250;
+  color: rgb(91, 91, 91);
 }
 }
 
@@ -279,7 +318,7 @@
   justify-content: center !important;
   align-items: center !important;
   width: 88vw !important;
-  height: max-content !important;
+  height: 100%!important;
   padding: 10px !important;
   /* height: 300px; */
   background-color: #f0f0f0;
