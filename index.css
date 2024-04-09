@@ -330,7 +330,7 @@ margin-top: 90px;
   justify-content: center !important;
   align-items: center !important;
   width: 89vw !important;
-  height: 700px !important;
+  height: 100% !important;
 }
 .about_life_care_text_box
 {
@@ -348,6 +348,9 @@ height: 580px;
 ul li
 {
   list-style-type: none;
+  
+  
+
 }
 
 .About_lifr_care_btn
@@ -362,3 +365,233 @@ ul li
 
 }
 
+.mediacal_services1
+{
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 89vw !important;
+  height: 100% !important;
+  margin-top: 2%;
+  /* border:  1px solid black; */
+}
+
+.mediacal_services2
+{
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 89vw !important;
+  height: 100% !important;
+  /* border:  1px solid black; */
+}
+
+.medical_services_icons
+{
+  width: 40px;
+  height: 38px;
+  border-radius: 5px;
+  object-fit: fill;
+}
+
+.doctor_banner_big_text3 {
+  font-size: 15px;
+  font-family: serif;
+  font-weight: bold;
+  color: black;
+}
+
+.doctor_banner_small_text3 {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 150;
+  color: rgb(120, 120, 120);
+}
+
+.doctor_banner_small_text3_1
+{
+  font-size: 12px;
+  font-family: serif;
+  font-weight: bold;
+  color: rgb(60, 60, 228)
+}
+
+.doctore_team
+{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 89vw !important;
+  height: 100% !important;
+  margin-top: 2%;
+  /* border:  1px solid black; */
+}
+
+.doctor_banner_big_text4 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+.doctor_banner_small_text4 {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 250;
+  color: rgb(91, 91, 91);
+}
+
+.dostor_team_inside_box
+{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 380px;
+  height: 700px;
+  border:  1px solid black;
+  border-radius: 15px;
+  /* padding: 5.5%; */
+
+
+
+}
+.doctore_team_imgs
+{
+  width: 330px;
+  height: 350px;
+  border-radius: 20px;
+
+  /* border:  1px solid black; */
+}
+
+.star_img_doctore_team
+{
+  width: 200px;
+  height: 35px;
+  /* border:  1px solid black; */
+
+}
+
+.doctor_team_text_img
+{
+  width: 210px;
+  height: 140px;
+  /* border:  1px solid black; */
+}
+
+.social_icons_doctor_team
+{
+  width: 200px;
+  height: 38px;
+  /* border:  1px solid black; */
+}
+
+.gallery_of_hospital
+{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center;
+  width: 89vw !important;
+  height: 100% !important;
+  margin-top: 2%;
+  /* border:  1px solid black; */
+  /* padding: 2.5%; */
+}
+.hospital_gallery
+{
+  width: 360px;
+  height: 370px;
+  /* border:  1px solid black; */
+
+}
+
+.hospital_clients
+{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center;
+  width: 89vw !important;
+  height: 100% !important;
+  background-color: #3a6cf1;
+}
+
+
+.doctor_banner_big_text5 {
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: white;
+  text-indent: 0;
+}
+
+.doctor_banner_small_text5 {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 250;
+  color: white;
+  text-indent: 0;
+}
+
+.doctore_patient
+{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center;
+  width: 89vw !important;
+  height: 100% !important;
+}
+
+.doctore_patients_img
+{
+  width: 400px;
+  height: 400px;
+}
+
+.doctor_footer
+{
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center;
+  width: 89vw !important;
+  height: 100% !important;
+  background-color: #1f2942;
+
+}
+
+.footer_img_1
+{
+  width: 90px;
+  height: 35px;
+}
+
+     .footer_section
+     {
+      display: flex !important;
+      flex-direction: column !important;
+      width: 300px !important;
+      height: 100% !important;
+      justify-content: center;
+      text-align: center;
+      text-indent: 0 !important;
+
+     }
+     hr
+     {
+      width: 89vw;
+      height: 5px;
+      color: white;
+      text-align:left;
+      margin-left:0
+     }
